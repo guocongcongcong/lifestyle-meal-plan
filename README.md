@@ -4,6 +4,7 @@
 > 👩 **档案：** 女性，50kg，165cm（估算），BMI ~18.4
 > 🏥 **起点：** 2026-06-01 = 术后第2周（半流质阶段）
 > 🍜 **口味：** 北方（北京）· 爱香菜 🌿 · 爱米粉/米线 🍜
+> ⚠️ **饮食约束：** 乳糖不耐受 · 痛风家族史 · 禁植物雌激素 · 绿叶菜必焯水
 > 🔒 **GitHub：** [github.com/guocongcongcong/lifestyle-meal-plan](https://github.com/guocongcongcong/lifestyle-meal-plan)
 
 ---
